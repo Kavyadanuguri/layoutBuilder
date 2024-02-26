@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.controller-container {
+  background-color: #475569;
+  height: 27vh;
+  display: flex;
+  flex-direction: column;
+  padding-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.controller-h1 {
+  color: #ffffff;
+  font-family: 'roboto';
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.controller-list-container {
+  list-style-type: none;
+  display: flex;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+.controller-p1 {
+  color: #ffffff;
+  font-family: 'roboto';
+  margin-left: 5px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.input1 {
+  width: 15px;
+  margin-top: -13px;
+  margin-left: 0px;
+}

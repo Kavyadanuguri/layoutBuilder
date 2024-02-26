@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.footer-container {
+  background-color: #cbd5e1;
+  height: 12vh;
+  width: 70vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.footer-h1 {
+  color: #475569;
+  margin-top: 15px;
+}
